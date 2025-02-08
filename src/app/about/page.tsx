@@ -7,7 +7,7 @@ export default function About() {
       <div className="flex items-start mb-8">
         <div className="w-1/3 pr-4">
           <Image
-            src="/placeholder.svg?height=400&width=300"
+            src="/asif.jpeg?height=400&width=300"
             alt="Profile Picture"
             width={300}
             height={400}

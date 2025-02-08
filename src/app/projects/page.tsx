@@ -4,7 +4,7 @@ const projects = [
   {
     title: "AI Image Generator",
     description: "A deep learning model that generates realistic images from text descriptions.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/asif.jpeg?height=200&width=300",
   },
   {
     title: "Chatbot with Personality",
